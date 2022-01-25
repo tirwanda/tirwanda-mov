@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bwa-mov</string>
+    <string name="splash_description">Splash Description</string>
+
+    <string name="skip">SKIP</string>
+    <string name="next">CONTINUE</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui \nfilm yang sedang tampil</string>
+    <string name="pre_sale">Pre Sales</string>
+    <string name="pre_sale_desc">Tidak khawatir ketinggalan \nupdate film terbaru</string>
+    <string name="cashless">CASHLESS</string>
+    <string name="pre_cashless_desc">Gunakan E-walet untuk \ntransaksi tiket nonton</string>
+</resources>
