@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Bwamov" >
+        <activity android:name=".SignInActivity"/>
         <activity android:name=".onBoarding.OnBoardingOneActivity"/>
         <activity android:name=".onBoarding.OnBoardingTwoActivity"/>
         <activity android:name=".onBoarding.OnBoardingThreeActivity"/>

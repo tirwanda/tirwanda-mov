@@ -10,4 +10,9 @@
     <string name="pre_sale_desc">Tidak khawatir ketinggalan \nupdate film terbaru</string>
     <string name="cashless">CASHLESS</string>
     <string name="pre_cashless_desc">Gunakan E-walet untuk \ntransaksi tiket nonton</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password ?</string>
 </resources>
