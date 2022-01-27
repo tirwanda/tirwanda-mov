@@ -19,4 +19,6 @@
     <string name="email">Email Address</string>
     <string name="already_have_an_account_login_here">Already have an account? Login here!</string>
     <string name="back">Back</string>
+    <string name="photo">Photo</string>
+    <string name="welcome">Welcome, \nEdho Dwi</string>
 </resources>
