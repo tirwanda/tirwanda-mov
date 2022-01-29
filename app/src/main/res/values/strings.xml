@@ -22,4 +22,7 @@
     <string name="photo">Photo</string>
     <string name="welcome">Welcome, \nEdho Dwi</string>
     <string name="upload_photo">Upload Photo</string>
+    <string name="edho_dwi">Edho Dwi</string>
+    <string name="idr_240_000">IDR 240.000</string>
+    <string name="coming_soon">Coming Soon</string>
 </resources>
