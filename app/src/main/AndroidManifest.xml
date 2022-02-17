@@ -11,9 +11,9 @@
         android:theme="@style/Theme.Bwamov">
         <activity android:name=".DetailActivity" />
         <activity android:name=".HomeActivity" />
-        <activity android:name=".SignUpActivity" />
-        <activity android:name=".SignUpPhotoProfileActivity" />
-        <activity android:name=".SignInActivity" />
+        <activity android:name=".sign.SignUpActivity" />
+        <activity android:name=".sign.SignUpPhotoProfileActivity" />
+        <activity android:name=".sign.SignInActivity" />
         <activity android:name=".onBoarding.OnBoardingOneActivity" />
         <activity android:name=".onBoarding.OnBoardingTwoActivity" />
         <activity android:name=".onBoarding.OnBoardingThreeActivity" />
