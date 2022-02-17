@@ -56,4 +56,7 @@
     <string name="e_wallet">E-Wallet</string>
     <string name="total_balance">Total Balance</string>
     <string name="idr_200_000">IDR 200.000</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_new_data">Save New Data</string>
+    <string name="photo_profile">Photo Profile</string>
 </resources>
