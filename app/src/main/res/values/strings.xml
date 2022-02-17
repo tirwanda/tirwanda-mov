@@ -60,4 +60,5 @@
     <string name="save_new_data">Save New Data</string>
     <string name="photo_profile">Photo Profile</string>
     <string name="my_wallet">My Wallet</string>
+    <string name="my_history">My History</string>
 </resources>
