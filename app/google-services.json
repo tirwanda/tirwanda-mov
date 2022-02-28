@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "257887803057",
-    "project_id": "bwa-mov-3c2ff",
-    "storage_bucket": "bwa-mov-3c2ff.appspot.com"
+    "project_number": "274212743646",
+    "project_id": "tirwanda-mov-73a2a",
+    "storage_bucket": "tirwanda-mov-73a2a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:257887803057:android:6a8e1d5a17a2f1c0f1b490",
+        "mobilesdk_app_id": "1:274212743646:android:303c040f641387da04554f",
         "android_client_info": {
           "package_name": "com.tirwanda.bwa_mov"
         }
       },
       "oauth_client": [
         {
-          "client_id": "257887803057-nosaa91mmfhnnm6fgj2del4vi4v90gna.apps.googleusercontent.com",
+          "client_id": "274212743646-56cuk20cvbmdohfrdplhd7j6t6gm7mr7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCqowiuIRj7kWlkBESf64aZvSpGs6rnGQk"
+          "current_key": "AIzaSyALFCQ7RzaFwEMHnaogus4RQ0L2j9RPaAA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "257887803057-nosaa91mmfhnnm6fgj2del4vi4v90gna.apps.googleusercontent.com",
+              "client_id": "274212743646-56cuk20cvbmdohfrdplhd7j6t6gm7mr7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
